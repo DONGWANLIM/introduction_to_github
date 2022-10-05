@@ -1,2 +1,4 @@
 # introduction_to_github
 practice introduction_to_github
+
+I am editing the README file. Adding some more details about the project description.
